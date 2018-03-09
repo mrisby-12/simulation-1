@@ -1,0 +1,1 @@
+update simulation_products set name = $2 where product_id = $1;

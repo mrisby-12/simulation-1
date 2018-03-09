@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Header.js styling*/
+
+.navbar-container {
+  width: 100vw;
+  height: 100px;
+  background-color: ab2a19;
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+}
+
+.nav-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: inherit;
+  width: 150px;
+  height: 100%;
+}
+
+.logo {
+  background-color: ab2a19;
+  text-transform: uppercase;
+}
+
+.shelf-button {
+  background-color: d34735;
+}
+
+.bin-button {
+  background-color: ed6b5a;
+}
+
+.addinv-button {
+  max-width: 100%;
+}

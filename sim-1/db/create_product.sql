@@ -1,0 +1,1 @@
+insert into simulation_products ( name, price, shelf_location, bin_location, imageurl ) values ( $1, $2, $3, $4, $5);
